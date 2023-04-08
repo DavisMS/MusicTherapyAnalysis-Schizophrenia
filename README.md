@@ -10,36 +10,35 @@ This project (Repl) is an analysis of the effects of music therapy treatment for
 - <b>Python</b> 
 - <b>Pandas (Python Library)</b>
 - <b>Matplotlib (Python Library)</b>
-- <b>Pygubu (Python Library)</b>
+- <b>Pygubu</b>
 - <b>Excel</b>
-- <b>Replit</b>
+- <b>Replit IDE</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b>
-- <b>Replit</b>
+- <b>[Replit](https://replit.com/)</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Figures Produced: <br/>
-<img src="" height="80%" width="80%" alt="All Figures/Graphs"/>
+<img src="https://user-images.githubusercontent.com/124637405/230703219-32741911-fd6d-4a5f-b2a7-957758c52b25.png" height="80%" width="80%" alt="Male-to-Female Participants"/>
 <br />
 <br />
 Participants  <br/>
-<img src="" height="80%" width="80%" alt="Male-to-Female Participants"/>
+<img src="https://user-images.githubusercontent.com/124637405/230703460-773026e3-55ba-4557-95d0-4ef53aace296.png" height="80%" width="80%" alt="Male-to-Female Participants"/>
 <br />
 <br />
 Ages: <br/>
-<img src="" height="80%" width="80%" alt="Highest-to-Lowest Ages per study"/>
+<img src="https://user-images.githubusercontent.com/124637405/230703463-5f9e1164-c7b6-4bea-82d6-067767ed5941.png" height="80%" width="80%" alt="Highest-to-Lowest Ages per study"/>
 <br />
 <br />
 Completion Status:  <br/>
-<img src="" height="80%" width="80%" alt="Completion Status"/>
+<img src="https://user-images.githubusercontent.com/124637405/230703462-2b87756c-1713-4217-bb5e-223da0c10bd2.png" height="80%" width="80%" alt="Completion Status"/>
 <br />
 <br />
 Positive and Negative Results:  <br/>
-<img src="" height="80%" width="80%" alt="Poitive/Negative - Results"/>
+<img src="https://user-images.githubusercontent.com/124637405/230703461-721f5022-52dd-4682-9d3b-5d2a897b03eb.png" height="80%" width="80%" alt="Poitive/Negative - Results"/>
 </p>
 
 <br />
