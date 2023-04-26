@@ -26,19 +26,22 @@ Figures Produced: <br/>
 <br />
 <br />
 Participants  <br/>
-<img src="https://user-images.githubusercontent.com/124637405/230703460-773026e3-55ba-4557-95d0-4ef53aace296.png" height="80%" width="80%" alt="Male-to-Female Participants"/>
+<img src="https://user-images.githubusercontent.com/124637405/230703460-773026e3-55ba-4557-95d0-4ef53aace296.png" height="80%" width="80%" alt="Male-to-Female Participants"/> <br/>
+List of male (blue) to female (orange) participants across different studies with male participants exceeding the number of female participants.<br/> 
 <br />
 <br />
 Ages: <br/>
-<img src="https://user-images.githubusercontent.com/124637405/230703463-5f9e1164-c7b6-4bea-82d6-067767ed5941.png" height="80%" width="80%" alt="Highest-to-Lowest Ages per study"/>
+<img src="https://user-images.githubusercontent.com/124637405/230703463-5f9e1164-c7b6-4bea-82d6-067767ed5941.png" height="80%" width="80%" alt="Highest-to-Lowest Ages per study"/> <br/>
+Highest (orange) and lowest (blue) ages per study (if available). <br/>
 <br />
 <br />
 Completion Status:  <br/>
-<img src="https://user-images.githubusercontent.com/124637405/230703462-2b87756c-1713-4217-bb5e-223da0c10bd2.png" height="80%" width="80%" alt="Completion Status"/>
+<img src="https://user-images.githubusercontent.com/124637405/230703462-2b87756c-1713-4217-bb5e-223da0c10bd2.png" height="80%" width="80%" alt="Completion Status"/><br/> Completion status of participants who both did (blue) and did not (orange) complete the study.<br/>
 <br />
 <br />
 Positive and Negative Results:  <br/>
-<img src="https://user-images.githubusercontent.com/124637405/230703461-721f5022-52dd-4682-9d3b-5d2a897b03eb.png" height="80%" width="80%" alt="Poitive/Negative - Results"/>
+<img src="https://user-images.githubusercontent.com/124637405/230703461-721f5022-52dd-4682-9d3b-5d2a897b03eb.png" height="80%" width="80%" alt="Poitive/Negative - Results"/><br>
+Positive (orange) and negative (blue) results for participants.
 </p>
 
 <br />
